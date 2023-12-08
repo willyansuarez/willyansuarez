@@ -38,7 +38,7 @@ Sigo aprendiendo e investigando, ya publiqué un proyecto sencillo con streamlit
 
 ### Proyectos:
 
-*  [Weather App](https://weatherforecastvzla.streamlit.app/)
+*  [weather_forecast_vzla](https://weatherforecastvzla.streamlit.app/)
 
 
 ### Contacto:
